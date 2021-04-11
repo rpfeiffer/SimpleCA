@@ -16,7 +16,7 @@
 # nsCaPolicyUrl
 
 HOME                    = .
-RANDFILE                = /dev/urandom
+#RANDFILE                = /dev/urandom
 
 [ ca ]
 default_ca      = CA_default
